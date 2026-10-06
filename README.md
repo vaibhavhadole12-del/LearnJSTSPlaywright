@@ -1,4 +1,4 @@
-# Learn JavaScript, TypeScript & Playwright (4x)
+# Learn JavaScript, TypeScript & Playwright
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)
