@@ -206,9 +206,3 @@ $ node 01_chapter_JS_Basics/02_Math.js
 | `**` | Power | `2 ** 3` | `8` |
 
 ---
-
-## Coming Up
-
-- **Chapter 02: Keywords and Literals**: reserved words (`let`, `const`, `if`, `return`, ...) and how literal values are written.
-- **Chapter 03: Literals**: number, string, boolean, array, and object literals in depth.
-- Then TypeScript, then Playwright.
