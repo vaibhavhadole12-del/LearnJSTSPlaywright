@@ -1,4 +1,4 @@
-# Learn JavaScript, TypeScript & Playwright (4x)
+# Learn JavaScript, TypeScript & Playwright
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)
@@ -969,8 +969,3 @@ console.log("" === "0"); // false
 ```
 
 ---
-
-## Coming Up
-
-- **Chapter 04: Operators** continues: `25_CC.js` is still empty.
-- Then TypeScript, then Playwright.
